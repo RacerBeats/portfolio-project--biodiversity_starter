@@ -15,3 +15,10 @@ Questions:
 - species_info data contains characteristics of each species.
 
 ## ANALYSIS:
+We were able to make some visualizations and inferences about the different species in 4 national parks.
+
+we were able to answer these questions:
+- The distributions of species shows that a lot of them are not part of the conservation effort.
+- mammals and birds had the highest percentage of protection.
+- mammals and birds did not have a significant difference in conservation percentage. but mammals and reptiles had a statistically significant difference.
+- bats were observed the most overall in this study, and were most likely to be found in Yellowstone.
